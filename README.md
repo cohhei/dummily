@@ -37,7 +37,7 @@ end
 
 ```sh
 $ iex -S mix
-$ curl "http://localhost:8880/users
-$ curl "http://localhost:8880/users/1
-$ curl "http://localhost:8880/users?username=john
+$ curl "http://localhost:8880/users"
+$ curl "http://localhost:8880/users/1"
+$ curl "http://localhost:8880/users?username=john"
 ```
