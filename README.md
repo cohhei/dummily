@@ -8,11 +8,6 @@ Dummily is a sample of REST API with Maru.
 - email
 - posts
 
-### Posts
-- title
-- body
-- date
-
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
