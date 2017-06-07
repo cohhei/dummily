@@ -36,6 +36,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 ## Testing
 
 ```
+$ iex -S mix
 $ curl "http://localhost:8880/users
 $ curl "http://localhost:8880/users/1
 $ curl "http://localhost:8880/users?username=john
